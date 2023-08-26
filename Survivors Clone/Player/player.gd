@@ -55,11 +55,13 @@ func _on_hurtbox_hurt(damage):
 func attack():
 	if icespear_level > 0:
 		iceSpearTimer.wait_time = icespear_attackspeed
-		iceSpearTimer.start()
+		if iceSpearTimer.is_stopped():
+			iceSpearTimer.start()
 
 
 func _on_ice_spear_timer_timeout():
 	icespear_ammo += icespear_baseammo
+	iceSpearTimer.start()
 	iceSpearAttackTimer.start()
 
 
