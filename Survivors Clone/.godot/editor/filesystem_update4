@@ -5,3 +5,6 @@ res://Enemy/enemy.tscn
 res://Utility/hitbox.tscn
 res://Utility/hurtbox.tscn
 res://Utility/hurtbox.gd
+res://Utility/enemy_spawner.tscn
+res://Utility/enemy_spawner.gd
+res://Utility/spawn_info.gd
