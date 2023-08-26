@@ -2,4 +2,6 @@ res://World/world.tscn
 res://Player/player.gd
 res://Player/player.tscn
 res://Enemy/enemy.tscn
-res://Enemy/enemy.gd
+res://Utility/hitbox.tscn
+res://Utility/hurtbox.tscn
+res://Utility/hurtbox.gd
