@@ -6,3 +6,7 @@ res://Utility/enemy_spawner.tscn
 res://Player/Attack/ice_spear.tscn
 res://Utility/hurtbox.tscn
 res://Player/Attack/ice_spear.gd
+res://Utility/hurtbox.gd
+res://Enemy/enemy.gd
+res://Enemy/explosion.tscn
+res://Enemy/explosion.gd
