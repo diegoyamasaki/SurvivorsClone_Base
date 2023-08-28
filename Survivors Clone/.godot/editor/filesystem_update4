@@ -1,12 +1,11 @@
-res://World/world.tscn
 res://Player/player.gd
+res://Player/Attack/tornado.tscn
+res://Player/Attack/tornado.gd
 res://Player/player.tscn
+res://World/world.tscn
 res://Enemy/enemy.tscn
 res://Utility/enemy_spawner.tscn
 res://Player/Attack/ice_spear.tscn
 res://Utility/hurtbox.tscn
-res://Player/Attack/ice_spear.gd
-res://Utility/hurtbox.gd
-res://Enemy/enemy.gd
 res://Enemy/explosion.tscn
-res://Enemy/explosion.gd
+res://Utility/hurtbox.gd
