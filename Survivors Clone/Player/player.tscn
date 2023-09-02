@@ -67,6 +67,9 @@ wait_time = 0.2
 one_shot = true
 autostart = true
 
+[node name="javalinBase" type="Node2D" parent="Attack"]
+unique_name_in_owner = true
+
 [node name="EnemyDetectionArea" type="Area2D" parent="."]
 collision_layer = 4
 collision_mask = 4

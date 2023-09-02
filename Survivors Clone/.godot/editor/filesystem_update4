@@ -1,6 +1,6 @@
 res://Player/player.gd
-res://Player/Attack/tornado.tscn
-res://Player/Attack/tornado.gd
+res://Player/Attack/javalin.tscn
+res://Player/Attack/javalin.gd
 res://Player/player.tscn
 res://World/world.tscn
 res://Enemy/enemy.tscn
@@ -8,4 +8,4 @@ res://Utility/enemy_spawner.tscn
 res://Player/Attack/ice_spear.tscn
 res://Utility/hurtbox.tscn
 res://Enemy/explosion.tscn
-res://Utility/hurtbox.gd
+res://Player/Attack/tornado.tscn
